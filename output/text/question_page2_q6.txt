@@ -1,0 +1,6 @@
+6. Låt V vara ett delrum av R” och låt Xv vara mängden av alla 2 X n-matriser A som uppfyller att
+Ax ligger i V om x ligger i V.
+
+a) Visa att Xy är ett delrum av vektorrummet av alla n» X n-matriser. (2p)
+
+b) Antag att V = span (ej) där ej = [10 ... OJ”. Bestäm dim Xy. (4p)

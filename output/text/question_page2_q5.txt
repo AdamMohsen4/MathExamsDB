@@ -1,0 +1,4 @@
+5. Låt P3 vara vektorrummet av alla polynom av grad högst 3. Den linjära avbildningen T: P3 —
+P3 ges av
+T (ao + ax + ax? + a3x?) = a3 + ax + A1X> + aA0x).
+Hitta alla egenvärden samt bestäm en bas för varje egenrum.
