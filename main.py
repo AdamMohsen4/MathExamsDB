@@ -1,8 +1,8 @@
 import argparse
 import logging
 import os
-from pdf_parser import extract_full_question_blocks_as_images
-from categorizer import extract_text_from_image
+from image_extractor import extract_full_question_blocks_as_images
+from text_extractor import extract_text_from_image
 
 def main():
     """
