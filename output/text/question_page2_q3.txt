@@ -1,11 +1,31 @@
-3. Låt ej, €e>, e3 vara standardbasen för R?. Betrakta den linjära avbildningen F : R? > R? som är
+3. Låt ej, e>, e3 vara standardbasen för R?. Betrakta den linjära avbildningen F : R3 — R? som är
+
 definierad genom
-Fen =] Fe och Fe)
-a) Bestäm F(v), där v = (2,1, 1). (1p)
-b) Bestäm standardmatrisen A för F. (Ip)
-c) Bestäm dimensionen av nollrummet ker(F) och bildrummet ran(F). (2p)
-d) Bestäm en bas för nollrummet ker(F). ( p)
-e) Bestäm alla lösningar till ekvationen Ax = H . Ap)
-10 0
-4. Avbildningen T : R? > R? har matrisen A = [T]g = 10 0 Ol med avseende på ON-basen
-0 0 1
+
+Fen =] F(e) = || och F(e) = |]:
+
+a) Bestäm F(v), där v = (2,1,1).
+b) Bestäm standardmatrisen A för F.
+
+c) Bestäm dimensionen av nollrummet ker(F) och bildrummet ran(F).
+
+d) Bestäm en bas för nollrummet ker (F).
+
+e) Bestäm alla lösningar till ekvationen Ax = H .
+
+eR--
+
+1
+4. Avbildningen T : R? > R? har matrisen A = [T]g = |0
+(0)
+
+(Ip)
+(Ip)
+2p)
+(Ip)
+
+(Ip)
+
+0
+0] med avseende på ON-basen
+1

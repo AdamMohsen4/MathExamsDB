@@ -1,10 +1,12 @@
-1 vv ov
-4, Avbildningen T : RI > R? har matrisen A = [T]g = 10 0 Ol med avseende på ON-basen
+I UU UU
+4. Avbildningen T : R? > R? har matrisen A = [T]g = JO 0 Ol med avseende på ON-basen
 0 0 1
-3/51 1-4/5] 10
-8 =3514/51, | 3/51, Ol +.
+3/51 1-4/51 10
+8 = 114/51, | 3/51, 10
 0 0 1
-a) Bestäm standardmatrisen till 7. (2p)
-b) Bestäm samtliga egenvärden och egenvektorer till 7. (2p)
+a) Bestäm standardmatrisen till 7. 2 p)
+b) Bestäm samtliga egenvärden och egenvektorer till 7. 2 p)
 c) Kan 7 beskrivas som en projektion, en spegling, en rotation, eller ingetdera? (2p)
-He DEL
+
+DEL C
+

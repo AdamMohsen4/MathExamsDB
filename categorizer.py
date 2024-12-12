@@ -1,30 +1,6 @@
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image
 import pytesseract
 import os
-
-def preprocess_image(image):
-    """
-    Preprocess the image to enhance OCR accuracy.
-    
-    Args:
-        image (PIL.Image): The input image.
-    
-    Returns:
-        PIL.Image: The preprocessed image.
-    """
-    # Convert to grayscale
-    image = image.convert('L')
-    
-    # Apply thresholding
-    image = image.point(lambda x: 0 if x < 140 else 255, '1')
-    
-    # Resize the image
-    base_width = 1800
-    w_percent = (base_width / float(image.size[0]))
-    h_size = int((float(image.size[1]) * float(w_percent)))
-    image = image.resize((base_width, h_size), Image.LANCZOS)
-    
-    return image
 
 def extract_text_from_image(image_path, output_dir):
     """
@@ -44,12 +20,8 @@ def extract_text_from_image(image_path, output_dir):
         # Open the image file
         image = Image.open(image_path)
 
-        # Preprocess the image
-        image = preprocess_image(image)
-
         # Use Tesseract to extract text from the image with the math language model
-        custom_config = r'--oem 3 --psm 6'
-        text = pytesseract.image_to_string(image, lang='swe+math', config=custom_config)
+        text = pytesseract.image_to_string(image, lang='swe+math')
 
         # Check if any text was extracted
         if not text:

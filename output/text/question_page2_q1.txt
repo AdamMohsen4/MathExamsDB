@@ -1,4 +1,8 @@
-1. a) Använd minsta kvadratmetoden för att bestämma en linje y = ax+b som bäst approximerar
+1.
+
+a) Använd minsta kvadratmetoden för att bestämma en linje y = ax+b som bäst approximerar
 följande punkter (x, y):
-(0,1), (1.1, (2,2), (3,2).
+
+(0,1), (1.1), (2,2), (3,2).
+
 b) Skissa en figur och förklara med hjälp av bilden vad det är som minimeras.
