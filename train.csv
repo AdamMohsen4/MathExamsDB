@@ -1,0 +1,742 @@
+text,label
+"Tv
+
+a matr iser
+
+och
+
+kallas f
+
+or
+simil
+
+ara
+om det nns en inver terbar matr is
+%
+s
+
+adan att
+
+=
+%
+
+1
+ %
+.
+a)
+ Visa att simil
+
+ara matr iser har samma egenv
+
+arden med samma algebraiska multiplicitet
+genom att visa att de har samma karakter istiska polynom. (2 p)
+b)
+ Visa att om
+x
+
+ar en egenvektor till
+
+=
+%
+
+1
+ %
+s
+
+a
+
+ar
+%
+x
+en egenvektor till
+
+med samma
+egenv
+
+arde. (2 p)
+c)
+ Antag att matr iser na
+
+och
+
+
+ar simil
+
+ara. Visa att var je egenv
+
+arde
+_
+har samma geometr iska
+multiplicitet f
+
+or
+
+som f
+
+or
+
+. (2 p)
+SF1624 Algebra och geometri
+Tent amen
+M
+
+andag 21 oktober 2024
+Skr ivtid: 14:00{17:00
+Till
+
+atna hj
+
+alpmedel: Inga
+Examinator: Mar ia Sapr ykina
+Tentamen best
+
+ar av sex uppgifter som vardera ger maximalt sex po
+
+ang. Tentamens tre f
+
+orsta upp-
+gifter utg
+
+or del 1.",Eigenvalue calculation
+"(a)
+ En punkt
+
+
+ar en
+spegelbild
+av punkten
+
+i planet
+
+om punkter na ligger p
+
+a olika sidor
+om
+
+, men p
+
+a samma avst
+
+and fr
+
+an
+
+s
+
+a att linjen genom punkter na
+
+ar or togonal mot
+
+.
+Best
+
+am spegelbilden
+
+av
+
+i planet
+
+. (4 p)
+(b)
+ Avg
+
+or om punkten
+˘
+=
+¹
+4
+Œ
+3
+Œ
+3
+º
+ligger p
+
+a samma sida om planet
+
+som punkten
+
+. (2 p)
+Del C
+5.",Reflection
+"Låt
+%
+vara punkten
+¹
+1
+Œ
+0
+Œ
+3
+º
+,
+
+linjen
+¹
+G Œ H Œ I
+º
+=
+¹
+2
+Œ
+1
+Œ
+3
+º ¸
+C
+¹
+1
+Œ
+0
+Œ
+1
+º
+, där
+C
+är en reell parameter,
+och
+c
+planet
+G
+
+3
+H
+¸
+I
+=
+4
+.
+a)
+ Bestäm det kor taste avståndet mellan punkten
+%
+och linjen
+
+. (3 p)
+b)
+ Bestäm en linje
+!
+i parameter for m som tillhör planet
+c
+och skär linjen
+
+under rät vinkel.
+(3 p)
+4.",Distance calculation
+"L
+
+at
+
+=
+2
+6
+6
+6
+6
+4
+1 2 3
+1 2 3
+1 2 3
+3
+7
+7
+7
+7
+5
+,
+v
+1
+=
+2
+6
+6
+6
+6
+4
+1
+1
+1
+3
+7
+7
+7
+7
+5
+och
+v
+2
+=
+2
+6
+6
+6
+6
+4
+1
+2
+3
+3
+7
+7
+7
+7
+5
+.
+a)
+ Avg
+
+or vilken av
+v
+1
+och
+v
+2
+som
+
+ar en egenvektor till
+
+och best
+
+am dess egenv
+
+arde. (2 p)
+b)
+ Avg
+
+or om
+
+
+ar diagonaliserbar. (3 p)
+c)
+ Avg
+
+or om
+
+
+ar or togonalt diagonaliserbar. (1 p)
+Del B
+3.",Eigenvalue calculation
+"a)
+ Anv
+
+and minsta kvadratmetoden f
+
+or att best
+
+amma en linje
+H
+=
+0 G
+¸
+1
+som b
+
+ast approximerar
+f
+
+oljande punkter
+¹
+G Œ H
+º
+:
+¹
+0
+Œ
+1
+º
+Œ
+¹
+1
+Œ
+1
+º
+Œ
+¹
+2
+Œ
+2
+º
+Œ
+¹
+3
+Œ
+2
+º
+Ł
+b)
+ Skissa en gur och f
+
+orklara med hj
+
+alp av bilden vad det
+
+ar som minimeras.
+2.",Least squares method
+"a)
+ Vad betyder det att
+v
+
+ar en egenvektor till en matr is
+
+med egenv
+
+arde
+_
+? (2 p)
+b)
+ Matr isen
+
+=
+2
+6
+6
+6
+6
+6
+6
+4
+
+1 6 3 0
+3
+
+4
+
+3 0
+
+6 12 8 0
+0 0 0 4
+3
+7
+7
+7
+7
+7
+7
+5
+har egenv
+
+ardena 2,
+
+1 och 4.",Eigenvalue calculation
+"Låt
+v
+1
+och
+v
+2
+vara två egenvektorer till samma linjära avbildning med egenvärden
+_
+1
+och
+_
+2
+där
+_
+1
+<
+_
+2
+. Bevisa att
+f
+v
+1
+Œ
+v
+2
+g
+är linjär t oberoende. (6 p)
+SF1624 Algebra och geometri
+Tent amen
+Onsdag 11 januari 2023
+Skr ivtid: 08:00{11:00
+Till
+
+atna hj
+
+alpmedel: Inga
+Examinator: Mar ia Sapr ykina
+Tentamen best
+
+ar av sex uppgifter som vardera ger maximalt sex po
+
+ang. Till antalet erh
+
+allna po
+
+ang p
+
+a
+del A adderas eventuella bonuspo
+
+ang, upp till som mest 12 po
+
+ang. Po
+
+angsumman p
+
+a del A kan allts
+
+a
+bli h
+
+ogst 12 po
+
+ang, bonuspo
+
+ang medr
+
+aknade. Bonuspo
+
+angen ber
+
+aknas automatiskt.
+Betygsg r
+
+anser vid tentamen kommer att ges av
+Betyg
+A B C D E Fx
+Total po
+
+ang
+27 24 21 18 16 15
+varav fr
+
+an del C
+6 3 - - - -
+F
+
+or full po
+
+ang p
+
+a en uppgift kr
+
+avs att l
+
+osningen
+
+ar v
+
+alpresenterad och l
+
+att att f
+
+olja. Det inneb
+
+ar speciellt
+att inf
+
+orda beteckningar ska denieras, att den logiska str ukturen tydligt beskr ivs i ord eller symboler
+och att resonemangen
+
+ar v
+
+almotiverade och tydligt f
+
+orklarade.
+Del A
+1.",Eigenvalue calculation
+"L
+
+at
+
+=
+
+6 2
+2 3
+
+Ł
+a)
+ Visa att vektorer na
+u
+=
+
+1
+
+2
+
+och
+v
+=
+
+2
+1
+
+
+ar egenvektorer till
+
+, och best
+
+am deras
+tillh
+
+orande egenv
+
+arden. (2 p)
+b)
+ Uttr yck vektor n
+w
+=
+
+1
+13
+
+som en linj
+
+arkombination av
+u
+och
+v
+. (2 p)
+c)
+ Anv
+
+and resultaten fr
+
+an a) och b) f
+
+or att ber
+
+akna
+
+25
+w
+. (2 p)
+3.",Eigenvalue calculation
+"Betrakta matr isen
+
+=
+
+
+1 2
+3 0
+
+Ł
+(a)
+ Hitta alla egenv
+
+arden och motsvarande egenvektorer till
+
+. (3 p)
+(b)
+ Best
+
+am en matr is
+%
+och en diagonalmatr is
+ˇ
+s
+
+adana att
+
+=
+% ˇ %
+
+1
+. (2 p)
+(c)
+ Ber
+
+akna
+
+123
+
+4
+6
+
+. Svaret f
+
+ar inneh
+
+alla potenser. (1 p)
+Del B
+3.",Eigenvalue calculation
+"L
+
+at
+
+=
+2
+6
+6
+6
+6
+4
+3
+
+4 0
+1
+
+1 0
+
+1 3 2
+3
+7
+7
+7
+7
+5
+Œ
+v
+=
+2
+6
+6
+6
+6
+4
+3
+1
+
+1
+3
+7
+7
+7
+7
+5
+Œ
+w
+=
+2
+6
+6
+6
+6
+4
+0
+0
+3
+3
+7
+7
+7
+7
+5
+Ł
+a)
+ Avg
+
+or om vektor n
+v
+
+ar en egenvektor till
+
+. (1 p)
+b)
+ Avg
+
+or om
+
+
+ar diagonaliserbar. (3 p)
+c)
+ Best
+
+am
+
+
+10
+w
+. (2 p)
+Del B
+3.",Eigenvalue calculation

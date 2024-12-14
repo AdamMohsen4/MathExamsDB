@@ -1,0 +1,32 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.1",
+  "startedAt": "2024-12-14T22:55:40.587895Z",
+  "program": "c:\\Users\\adamg\\MathExamsDB\\model.py",
+  "codePath": "model.py",
+  "git": {
+    "remote": "git@github.com:AdamMohsen4/MathExamsDB.git",
+    "commit": "a5939730577b0f2bb532d628e9dd4c1363c2d6f0"
+  },
+  "email": "adam.amohsen4@gmail.com",
+  "root": "C:\\Users\\adamg\\MathExamsDB",
+  "host": "adamaa",
+  "username": "adamg",
+  "executable": "C:\\Users\\adamg\\venv\\Scripts\\python.exe",
+  "codePathLocal": "model.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "238653796352",
+      "used": "170053713920"
+    }
+  },
+  "memory": {
+    "total": "8299986944"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

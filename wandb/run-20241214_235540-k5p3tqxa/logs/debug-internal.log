@@ -1,0 +1,17 @@
+{"time":"2024-12-14T23:55:40.5979838+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-14T23:55:40.5979838+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\adamg\\MathExamsDB\\wandb\\run-20241214_235540-k5p3tqxa\\logs\\debug-core.log"}
+{"time":"2024-12-14T23:55:41.1232126+01:00","level":"INFO","msg":"created new stream","id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:41.1237672+01:00","level":"INFO","msg":"stream: started","id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:41.1260327+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:41.1265417+01:00","level":"INFO","msg":"handler: started","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:41.1265417+01:00","level":"INFO","msg":"sender: started","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:41.4042989+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-14T23:55:41.7817779+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-14T23:55:41.7842147+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-14T23:55:42.7964826+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3256943,"progress":"553B/553B"}],"total_operations":1}}
+{"time":"2024-12-14T23:55:42.7991974+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-14T23:55:44.0110369+01:00","level":"INFO","msg":"stream: closing","id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:44.0110369+01:00","level":"INFO","msg":"handler: closed","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:44.0110369+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:44.012057+01:00","level":"INFO","msg":"sender: closed","stream_id":"k5p3tqxa"}
+{"time":"2024-12-14T23:55:44.012057+01:00","level":"INFO","msg":"stream: closed","id":"k5p3tqxa"}
